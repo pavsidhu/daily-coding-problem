@@ -1,2 +1,2 @@
 # Daily Coding Problem
-Python solutions for [https://dailycodingproblem.com](dailycodingproblem.com)
+Python solutions for [dailycodingproblem.com](https://dailycodingproblem.com)
